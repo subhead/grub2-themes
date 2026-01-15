@@ -11,7 +11,7 @@ tui_root_login=
 THEME_DIR="/usr/share/grub/themes"
 REO_DIR="$(cd $(dirname $0) && pwd)"
 
-THEME_VARIANTS=('tela' 'vimix' 'stylish' 'whitesur')
+THEME_VARIANTS=('mayan')
 ICON_VARIANTS=('color' 'white' 'whitesur')
 SCREEN_VARIANTS=('1080p' '2k' '4k' 'ultrawide' 'ultrawide2k')
 custom_resolution=""
